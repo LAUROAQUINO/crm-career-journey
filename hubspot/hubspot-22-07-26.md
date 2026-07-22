@@ -1,0 +1,134 @@
+# HubSpot CRM — Aula 08
+
+**Data:** 22/07/2026
+
+---
+
+# Objetivo da Aula
+
+Revisar os conceitos da aula anterior e iniciar o estudo sobre arquitetura de automações, organização de propriedades e auditoria de um CRM utilizando a versão gratuita do HubSpot.
+
+---
+
+# Revisão
+
+Relembramos os principais conceitos da aula anterior:
+
+- If/Then Branch.
+- Debug de Workflows.
+- Workflow History.
+- Diferença entre erro da automação e erro do dado.
+- Importância de validar os eventos antes de assumir que o Workflow está errado.
+
+---
+
+# Arquitetura de Workflows
+
+Discutimos por que Workflows costumam crescer de forma desorganizada.
+
+Principal aprendizado:
+
+> O problema normalmente não está nas ações do Workflow, mas na falta de definição de sua responsabilidade.
+
+Foi apresentado o conceito de tratar Workflows como componentes independentes, cada um responsável por um processo de negócio específico.
+
+---
+
+# Minha experiência com GoHighLevel
+
+Compartilhei uma experiência prática em que uma automação de distribuição de leads cresceu excessivamente e se tornou difícil de manter.
+
+Posteriormente, outro profissional reestruturou a mesma lógica utilizando uma arquitetura muito mais simples, organizada e estratégica.
+
+Essa discussão reforçou a importância de pensar primeiro na lógica do processo e não apenas nas ações da automação.
+
+---
+
+# Percepções da Aula
+
+Principais conclusões:
+
+- Antes de editar um Workflow é preciso entender sua responsabilidade.
+- Workflows menores facilitam manutenção.
+- Workflows menores facilitam documentação.
+- Workflows menores facilitam debug.
+- Arquitetura é mais importante do que quantidade de ações.
+
+---
+
+# Mudança de Estratégia
+
+Durante a aula descobrimos que a licença Trial do HubSpot havia expirado.
+
+Como consequência, deixamos de focar em automações e passamos a explorar os recursos disponíveis na versão gratuita.
+
+---
+
+# Auditoria de CRM
+
+Exploramos a área de Propriedades.
+
+Identificamos:
+
+- 213 propriedades para o objeto Contato.
+- Forma de diferenciar propriedades nativas das propriedades criadas pelo usuário utilizando o filtro "Criado por".
+
+Essa descoberta permitiu compreender uma maneira prática de auditar um portal HubSpot.
+
+---
+
+# Organização das Propriedades
+
+Foi discutido por que as propriedades são agrupadas.
+
+Principal conclusão:
+
+Os grupos representam contextos de negócio e facilitam a organização do CRM.
+
+Exemplos:
+
+- Informações de Contato.
+- Marketing.
+- Comercial.
+- Atendimento.
+
+---
+
+# Correção de Contexto
+
+Durante a aula identifiquei que algumas sugestões de auditoria não faziam sentido para um portal de estudos sem operação real.
+
+Essa discussão reforçou um ponto importante:
+
+> O contexto do ambiente deve sempre ser considerado antes de iniciar uma análise.
+
+---
+
+# Próximo Projeto
+
+Foi definida uma nova estratégia de aprendizado.
+
+Em vez de utilizar apenas um portal de testes, será criado um projeto real utilizando uma loja online de calçados femininos.
+
+Objetivos do projeto:
+
+- Modelar o CRM do zero.
+- Criar propriedades.
+- Estruturar a jornada do cliente.
+- Configurar campanhas.
+- Construir segmentações.
+- Criar dashboards.
+- Acompanhar métricas.
+- Desenvolver um case completo de implementação no HubSpot.
+
+Esse projeto será utilizado como laboratório prático para consolidar os conceitos estudados durante a mentoria.
+
+---
+
+# Principais Aprendizados
+
+- Arquitetura de CRM é mais importante do que quantidade de automações.
+- Workflows devem representar responsabilidades de negócio.
+- Auditoria de propriedades é uma habilidade essencial para consultores de CRM.
+- Sempre analisar o contexto antes de iniciar uma investigação.
+- Projetos reais aceleram muito mais o aprendizado do que ambientes puramente demonstrativos.
