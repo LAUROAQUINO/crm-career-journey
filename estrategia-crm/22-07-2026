@@ -1,0 +1,258 @@
+# Estratégia de CRM — Notas e Aprendizados
+
+Documentação de estudos sobre estratégia, governança e processos de CRM, independente de ferramenta específica.
+
+---
+
+## 📅 Log de Progresso
+
+### 📅 22/07/2026 — KPIs, Hipóteses e Priorização em CRM
+
+**Contexto:**
+
+A aula começou com a revisão do conteúdo anterior, reforçando a diferença entre métricas de comunicação, métricas de CRM e métricas de negócio. Em seguida, aprofundamos o papel do Analista de CRM na interpretação de indicadores e na tomada de decisão baseada em hipóteses, chegando ao conceito de melhoria contínua e priorização de problemas.
+
+---
+
+## 📖 Revisão da aula anterior
+
+Revisamos os seguintes conceitos:
+
+- Réguas de relacionamento.
+- CRM Reativo x CRM Preditivo.
+- KPIs de Negócio.
+- KPIs de CRM.
+- KPIs de Comunicação.
+
+O principal conceito reforçado foi:
+
+> **O KPI principal mede o objetivo do negócio. As métricas secundárias explicam por que aquele resultado aconteceu.**
+
+---
+
+## 🧠 Estudo de Caso 1 — Interpretação de KPIs
+
+### Cenário
+
+- Open Rate: 91%
+- CTR: 27%
+- Taxa de Recompra: 8%
+- Receita: sem crescimento.
+- ROI: negativo.
+
+### Minha análise
+
+Concluí que:
+
+- O Open Rate demonstrava boa entrega da campanha.
+- O CTR indicava que houve interesse dos clientes.
+- Como a recompra permaneceu igual, a campanha não gerou impacto no negócio.
+- O ROI negativo reforçava que o investimento realizado não trouxe retorno financeiro.
+
+### Correção da aula
+
+Aprendemos que:
+
+- Um CTR de 27% é considerado muito alto na maioria das operações de CRM.
+- O problema provavelmente aconteceu **após o clique**, e não durante a comunicação.
+- Antes de concluir que o canal foi inadequado, é necessário investigar outras hipóteses.
+
+Possíveis hipóteses:
+
+- Oferta pouco atrativa.
+- Landing Page.
+- Checkout.
+- Produto.
+- Segmentação.
+- Experiência do cliente.
+
+---
+
+## 📖 Conceito novo — CRM como ciclo de melhoria contínua
+
+Foi apresentado o conceito de que CRM não termina quando uma campanha é enviada.
+
+O ciclo correto é:
+
+Dados
+
+↓
+
+Problema
+
+↓
+
+Hipótese
+
+↓
+
+Investigação
+
+↓
+
+Decisão
+
+↓
+
+Aprendizado
+
+↓
+
+Nova hipótese
+
+O principal aprendizado foi compreender que um Analista de CRM não cria campanhas imediatamente; primeiro identifica o problema e formula hipóteses para investigação.
+
+---
+
+## 🧠 Estudo de Caso 2 — Empresa com resultados estagnados
+
+### Cenário
+
+Após três meses:
+
+- Recompra estagnada.
+- Churn aumentando.
+- Pouca evolução nas campanhas.
+
+### Minha resposta
+
+Antes de criar qualquer campanha, eu analisaria se a empresa realmente está utilizando o CRM de forma coerente com seu público e com sua operação.
+
+### Correção
+
+Refinamos a resposta para um processo estruturado:
+
+1. Confirmar o problema através dos KPIs.
+2. Identificar quais segmentos foram impactados.
+3. Descobrir em qual etapa da jornada ocorre a perda.
+4. Formular hipóteses.
+5. Somente depois definir ações.
+
+---
+
+## 🧠 Estudo de Caso 3 — Churn por Segmento
+
+### Cenário
+
+| Segmento | Churn |
+|----------|-------:|
+| VIP | 4% |
+| Alto Valor | 8% |
+| Médio Valor | 15% |
+| Baixo Valor | 37% |
+
+### Minha resposta
+
+Minha primeira decisão seria investigar o segmento de Médio Valor pensando na relação entre impacto financeiro e quantidade de clientes.
+
+Também levantaria a hipótese de entender por que quanto menor o valor do cliente maior era o churn.
+
+### Discussão
+
+Aprendemos que:
+
+- Não devemos priorizar apenas pela porcentagem.
+- A prioridade deve considerar impacto financeiro.
+- O aumento do churn representa apenas um sintoma.
+- O objetivo do analista é descobrir a causa.
+
+---
+
+## 🧠 Estudo de Caso 4 — Escolha do primeiro Dashboard
+
+Pergunta da aula:
+
+"Qual dashboard você abriria primeiro?"
+
+### Minha resposta
+
+Dashboard de Jornada.
+
+Meu objetivo seria identificar em qual etapa do relacionamento existe o gargalo responsável pelo aumento do churn.
+
+### Correção
+
+Foi discutido que, antes da Jornada, normalmente precisamos descobrir **quem** está abandonando.
+
+Fluxo recomendado:
+
+Segmentação
+
+↓
+
+Jornada
+
+↓
+
+Hipóteses
+
+↓
+
+Ações
+
+---
+
+## 🧠 Estudo de Caso 5 — Priorização
+
+Recebi cinco problemas para resolver:
+
+- Open Rate caiu.
+- Churn aumentou em clientes VIP.
+- Base duplicada.
+- Workflow com atraso.
+- Cross Sell abaixo da meta.
+
+### Meu raciocínio
+
+Defini critérios antes de escolher:
+
+- Urgência.
+- Impacto.
+- Visibilidade.
+- Acúmulo de dano.
+- Facilidade de correção.
+
+Inicialmente priorizei o Workflow de Onboarding por considerar o impacto operacional.
+
+### Discussão
+
+Foi apresentado um contraponto importante.
+
+Antes de assumir que o Workflow é o maior problema, é necessário verificar se realmente existe impacto de negócio.
+
+Aprendemos que uma hipótese nunca deve ser tratada como fato sem evidências.
+
+---
+
+## 💡 Principais Insights da Aula
+
+- CRM é um processo contínuo de aprendizado.
+- Nem todo problema importante é urgente.
+- Nem todo problema urgente é importante.
+- O papel do Analista é formular boas perguntas antes de propor soluções.
+- KPIs mostram sintomas; o objetivo do analista é encontrar as causas.
+- Priorização deve considerar impacto financeiro e não apenas porcentagens.
+
+---
+
+## 📌 Minha evolução nesta aula
+
+Durante a discussão ficou evidente uma mudança no meu raciocínio.
+
+Em vez de responder imediatamente com ações, comecei a estruturar minhas respostas utilizando:
+
+- investigação;
+- hipóteses;
+- critérios de decisão;
+- impacto para o negócio.
+
+Esse é um passo importante para atuar de forma mais estratégica em CRM.
+
+---
+
+## 🎯 Próxima Aula
+
+- Frameworks de Priorização em CRM.
+- Como transformar hipóteses em experimentos.
+- Testes A/B como ferramenta de melhoria contínua.
+- Cultura de otimização baseada em dados.
